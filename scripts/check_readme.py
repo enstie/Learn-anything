@@ -37,7 +37,7 @@ DEFAULT_DOMAIN_POLICY = "scripts/linkcheck-domains.txt"
 
 USER_AGENT = (
     "Mozilla/5.0 (compatible; pbl-link-check/1.0; "
-    "+https://github.com/practical-tutorials/project-based-learning)"
+    "+https://github.com/enstie/Learn-anything)"
 )
 
 URL_SHORTENER_DOMAINS = {
